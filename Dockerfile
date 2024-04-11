@@ -1,1 +1,1 @@
-FROM joinsunsoft/docker.ui:1.0.1
+FROM mcr.microsoft.com/windows/servercore:ltsc2019
