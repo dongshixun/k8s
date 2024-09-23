@@ -1,1 +1,1 @@
-FROM alpine:v3.19.1
+FROM alpine:latest
