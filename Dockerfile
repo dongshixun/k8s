@@ -1,1 +1,1 @@
-FROM mcr.microsoft.com/windows/servercore:ltsc2019
+FROM alpine:3.19
