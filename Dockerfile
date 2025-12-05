@@ -1,1 +1,1 @@
-FROM alpine:latest
+FROM cptactionhank/atlassian-confluence:latest
